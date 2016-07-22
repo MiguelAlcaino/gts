@@ -1,0 +1,24 @@
+
+Version 2.5.5 [2014/05/05]
+- NEW: Added additional status codes.
+- NEW: Added new fields to EventData table
+- NEW: Added support for fuel-cost to Account/Device table and reports.
+- DCS: gprmc] Added battery-temperature support.
+- DCS: gprmc] Automatically adjust non-decimal battery level value to a percent.
+
+-----------------------------------------------------------------------------------
+
+Project Home Page:
+    http://www.opengts.org
+
+Download Latest Version from SourceForge:
+    https://sourceforge.net/projects/opengts/
+
+Documentation (installation/configuration, tutorials, FAQ):
+    http://www.opengts.org/FAQ.html
+    http://www.opengts.org/documentation.html
+
+GTS Enterprise:
+    http://www.geotelematic.com/gts.html
+    http://www.geotelematic.com/documentation.html
+
